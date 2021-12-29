@@ -1,0 +1,245 @@
+*{
+    margin: 0%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: rgb(18, 5, 29);
+}
+.flex{
+    margin-top: 2%;
+    justify-content: center;
+    display: flex;
+  
+}
+.child1>h1{
+    font-size:50px;
+    color: orangered; 
+}
+.child1>p{
+    color: white;
+}
+.part2{
+    padding: 30px;
+    border: 0px solid;
+    width: 50%;
+     background-color: rgb(8, 154, 212);
+}
+.parent>i{
+    color: black;
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 3px solid white;
+    border-radius: 50%;
+    bottom: -10px;
+    position: relative;
+    top: 20px;
+    background-color: rgb(29, 102, 131);
+    margin: 2px;
+}
+.part1{
+    padding: 20px;
+    
+    border: 0px solid;
+    width: 50%;
+    background-color: orange;
+    
+}
+.gym{
+    padding-left: 30px;
+    padding-right: 30px; 
+    padding-top: 30px;
+    border: 0px solid;
+   border-width: 50%;
+    background-color: red;  
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.kim{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+}
+.text{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    padding: 10px;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.gem{
+    padding-left: 30px;
+    padding-right: 30px; 
+    padding-bottom: 30px;
+    padding-top: 30px;
+    border: 0px solid;
+    border-width: 50%;
+    background-color: red; 
+  
+}
+
+
+.part4{
+   padding: 30px;
+    border: 0px solid;
+   border-width: 50%;
+    background-color:blue; 
+    width: 50%;
+}  
+.part25{
+    padding: 30px;
+     border: 0px solid;
+    border-width: 50%;
+     background-color:blue;
+     width: 50%; 
+ } 
+
+.flex2{
+    display: flex;
+}
+.bore{
+    display: flex;
+    flex-direction: column;
+}
+.flux{
+    margin-top:20px;
+    display: flex;
+    text-align: center;
+}
+.part5{
+    padding: 30px;
+    border: 0px solid;
+    border-width: 50%;
+     background-color:red; 
+     width: 50%; 
+}
+
+.part6{
+    padding: 30px;
+    border: 0px solid;
+    border-width: 50%;
+     background-color:orange;  
+     width: 50%; 
+}
+.flex3{
+  
+    display: flex;
+    text-align: center;
+}
+.part7{
+    padding: 30px;
+    border: 0px solid;
+    border-width: 50%;
+     background-color:blue;
+     width: 50%;   
+}
+.flex4{
+    display: flex;
+    text-align: center;
+}
+.part8{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+     background-color:blue;  
+}
+.part7>i{
+    color: black;
+}
+.part9{
+    padding: 30px;
+    border: 0px solid;
+    border-width: 50%;
+     background-color:darkorange; 
+     width: 50%;  
+}
+.flex5{
+    display: flex;
+    text-align: center;
+}
+.part9>i{
+    color: red;
+}
+.part10{
+    padding: 30px;
+    border: 0px solid;
+    border-width: 50%;
+     background-color:blue;  
+     text-align: center;
+     width: 50%; 
+}
+#gv{
+    color:black;
+}
+.part11{
+    padding: 30px;
+    border: 0px solid;
+    border-width: 50%;
+     background-color:red;  
+     text-align: center;
+     width: 50%; 
+}
+.flex6{
+    display: flex;
+    text-align: center;
+}
+.body{
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 3%;
+}
+.part1>b{
+    font-size: 40px;
+}
+
+.a{
+    font-size: 25px;
+}
+.b{
+    font-size: 25px;
+}
+.c{
+    font-size: 20px;
+}
+
+.d{
+    font-size: 40px;
+}
+
+.e{
+    font-size: 40px;
+}
+.f{
+    font-size: 25px;
+}
+.g{
+    font-size: 30px;
+}
+.glass>b{
+    font-size: 25px;
+}
+.h{
+    font-size: 25px;
+}
+.i{
+    font-size: 30px;
+}
+.j{
+    font-size: 25px;
+}
+#k{
+    color: black;
+}
+
+.m{
+    font-size: 25px;
+}
